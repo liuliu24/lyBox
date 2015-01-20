@@ -1,5 +1,4 @@
 ﻿var h;
-
 $(function () {
     $(document.body).append('<div class="overlay"></div><div class="showbox"></div>');
 
